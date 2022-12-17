@@ -1,0 +1,16 @@
+C:\Users\CASPER\Desktop\TodebAssignment2\TodebAssignment2\bin\Debug\net5.0\TodebAssignment2.exe
+C:\Users\CASPER\Desktop\TodebAssignment2\TodebAssignment2\bin\Debug\net5.0\TodebAssignment2.deps.json
+C:\Users\CASPER\Desktop\TodebAssignment2\TodebAssignment2\bin\Debug\net5.0\TodebAssignment2.runtimeconfig.json
+C:\Users\CASPER\Desktop\TodebAssignment2\TodebAssignment2\bin\Debug\net5.0\TodebAssignment2.runtimeconfig.dev.json
+C:\Users\CASPER\Desktop\TodebAssignment2\TodebAssignment2\bin\Debug\net5.0\TodebAssignment2.dll
+C:\Users\CASPER\Desktop\TodebAssignment2\TodebAssignment2\bin\Debug\net5.0\ref\TodebAssignment2.dll
+C:\Users\CASPER\Desktop\TodebAssignment2\TodebAssignment2\bin\Debug\net5.0\TodebAssignment2.pdb
+C:\Users\CASPER\Desktop\TodebAssignment2\TodebAssignment2\obj\Debug\net5.0\TodebAssignment2.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\TodebAssignment2\TodebAssignment2\obj\Debug\net5.0\TodebAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\Desktop\TodebAssignment2\TodebAssignment2\obj\Debug\net5.0\TodebAssignment2.AssemblyInfoInputs.cache
+C:\Users\CASPER\Desktop\TodebAssignment2\TodebAssignment2\obj\Debug\net5.0\TodebAssignment2.AssemblyInfo.cs
+C:\Users\CASPER\Desktop\TodebAssignment2\TodebAssignment2\obj\Debug\net5.0\TodebAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\TodebAssignment2\TodebAssignment2\obj\Debug\net5.0\TodebAssignment2.dll
+C:\Users\CASPER\Desktop\TodebAssignment2\TodebAssignment2\obj\Debug\net5.0\ref\TodebAssignment2.dll
+C:\Users\CASPER\Desktop\TodebAssignment2\TodebAssignment2\obj\Debug\net5.0\TodebAssignment2.pdb
+C:\Users\CASPER\Desktop\TodebAssignment2\TodebAssignment2\obj\Debug\net5.0\TodebAssignment2.genruntimeconfig.cache
